@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pincode", "Pincode.csproj", "{1F722E1D-E32D-4A4D-BDCD-3DB79CE18835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F722E1D-E32D-4A4D-BDCD-3DB79CE18835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F722E1D-E32D-4A4D-BDCD-3DB79CE18835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F722E1D-E32D-4A4D-BDCD-3DB79CE18835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F722E1D-E32D-4A4D-BDCD-3DB79CE18835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD0E066-89B7-4C0B-8461-1E964E44B876}
+	EndGlobalSection
+EndGlobal
