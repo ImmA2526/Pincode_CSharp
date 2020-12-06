@@ -5,7 +5,7 @@ namespace Pincode
 {
     public class PincodeCheker
     {
-        public static string Pincode = "^[0-9]{6}$";
+        public static string Pincode = "^[0-9]{3}[ ]?[0-9]{3}$";
         public bool Pincod(string Pincod)
         {
             Regex Pn = new Regex(Pincode);
